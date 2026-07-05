@@ -19,7 +19,7 @@ A simple and responsive Analog Clock built using **HTML**, **CSS**, and **JavaSc
 
 ```text
 AK's Analog-Clock/
-│── clock.html
+│── index.html
 │── clock.css
 │──  clock.js
 │── README.md
@@ -48,7 +48,7 @@ Second Hand = (seconds × 6) + (milliseconds × 0.006)
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Open `clock.html` in your browser.
+3. Open `index.html` in your browser.
 
 No installation or setup is required.
 
@@ -57,10 +57,7 @@ No installation or setup is required.
 Screenshot of the Analog Clock.
 👇👇👇
 
-```
-Clock's_Screenshot.png
-
-```
+![AK's Analog Clock](Clock's_Screenshot.png)
 
 ## 🎯 Future Improvements
 
