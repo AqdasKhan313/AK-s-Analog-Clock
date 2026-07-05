@@ -72,7 +72,7 @@ Screenshot of the Analog Clock.
 **Aqdas Khan (AK)**
 
 **GitHub**: https://github.com/AqdasKhan313/AK-s-Analog-Clock.git
-**Demo**: 
+**Demo**: https://aqdaskhan313.github.io/AK-s-Analog-Clock/
 
 ---
 
